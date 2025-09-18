@@ -1,0 +1,5 @@
+>>>
+For missing values, we use the mean formula.
+
+>>>
+For scaling the values we use Normalization with scikit-learn method called MinMaxScaler().
